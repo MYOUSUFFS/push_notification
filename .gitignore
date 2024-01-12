@@ -35,6 +35,7 @@ migrate_working_dir/
 /macos/
 /web/
 /windows/
+/lib/firebase_options.dart
 
 # Symbolication related
 app.*.symbols
@@ -46,3 +47,4 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+/android/app/google-services.json
